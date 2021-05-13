@@ -7,7 +7,7 @@ Usually, you can make a directory in the terminal, say bin, by typing:
 
 `mkdir bin`
 
-Then we will create the file called, <file-name>, where our BASH code will reside. Replace <file-name> with your actual file name.
+Then we will create the file called, 'file-name', where our BASH code will reside. Replace 'file-name' with your actual file name.
 
 `vim ~/bin/file-name`
 
