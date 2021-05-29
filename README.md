@@ -1,5 +1,5 @@
 # learning-shell-scripts
-The codes are taken from the book, 'The Linux Command Line' by William Shotts (2nd Edition). The explanation and other things is based on what I have understood.
+Some of the codes are taken from the book, 'The Linux Command Line' by William Shotts (2nd Edition). The explanation and other things is based on what I have understood. This repos also contains other Shell scripts that I have written for some CTFs.
 
 ### Terminal Commands for creating the file
 
